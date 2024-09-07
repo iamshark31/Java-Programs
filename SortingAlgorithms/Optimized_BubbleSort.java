@@ -1,3 +1,4 @@
+package SortingAlgorithms;
 /*This is an optimized version of bubble sort
  * This version of code includes a flag (swapped) that helps 
  * terminate the sorting process early if the array 

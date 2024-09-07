@@ -1,3 +1,4 @@
+package SortingAlgorithms;
 /*This is a code to sort the elements in an array using Bubble sort 
  * This is the simplest implementation of Bubble Sort, 
  * where every element is compared with its adjacent element, 

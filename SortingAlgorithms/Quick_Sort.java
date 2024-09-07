@@ -1,3 +1,4 @@
+package SortingAlgorithms;
 import java.util.Scanner;
 
 public class Quick_Sort {
